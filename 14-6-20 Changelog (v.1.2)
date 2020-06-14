@@ -1,0 +1,95 @@
+1.2 
+
+This is the first real Changelog update since this is when it was added to GitHub (I forgot I’m sorry), I just felt obligated to sloppily put together sections for 1.0 and 1.1
+We’ll go through the code from top to bottom and highlight changes
+
+Added A ___ says ___ rights sections
+Added an Inanimate Insanity category for all existing scenarios 
+            ..."#BFDI# says #Rights# rights!",
+        "I ship #Inanimate Insanity# x #Inanimate Insanity#",
+        "I hate #Inanimate Insanity# x #Inanimate Insanity#",
+        "#Inanimate Insanity# is #Headcannon#",
+        "#Inanimate Insanity# says #Rights# rights!"
+    ]...
+
+Added (BFB) to Taco’s alias to not confuse her with Taco from Inanimate Insanity
+
+
+            ..."Taco (BFB)"...
+
+Added the Inanimate Insanity characters 
+Added the ___ rights category
+
+            ..."androsexual",
+        "bicurious",
+        "feminine presenting",
+        "masculine presenting",
+        "nonbinary",
+        "nonbinary (masc-aligned)",
+        "nonbinary (fem-aligned)",
+        "feminine presenting",
+        "gender non-confirming",
+        "gender variant",
+        "gynesexual",
+        "intersex",
+        "metrosexual",
+        "polyamory",
+        "skoliosexual",
+        "transsexual"
+    ],
+    "Inanimate Insanity": [
+        "Apple",
+        "Balloon",
+        "Baseball",
+        "Knife",
+        "Lightbulb",
+        "Marshmallow",
+        "Nickel",
+        "Paintbrush",
+        "Box",
+        "Cheesy",
+        "Cherries",
+        "Dough",
+        "Fan",
+        "Microphone",
+        "Soap",
+        "Suitcase",
+        "Test Tube",
+        "Tissues",
+        "Trophy",
+        "Yin-Yang",
+        "Bomb",
+        "Bow",
+        "OJ",
+        "Paper",
+        "Pepper",
+        "Pickle",
+        "Salt",
+        "Taco (II)",
+        "MePad",
+        "MePhone4",
+        "Toilet"
+    ],
+    "Rights": [
+        "ace",
+        "bi",
+        "trans",
+        "butch",
+        "femme",
+        "demi",
+        "nonbinary",
+        "gay",
+        "genderfluid",
+        "lesbian",
+        "pan",
+        "poly",
+        "Black Rights Matter; go civil"
+    ]
+}
+
+
+1.1 
+Added a Headcannon Section
+
+1.0
+Added BFB characters and origin line to like / hate ships
